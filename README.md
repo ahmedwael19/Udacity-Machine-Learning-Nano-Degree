@@ -1,4 +1,6 @@
-This repo is a portofolio for all the assignments and projects that I have done throughout the 6-month Udacity Machine Learning Nano Degree.
+# Udacity Machine Learning Nano Degree
+
+This repo is a portofolio for all the projects, mini-projects, and the capstone project that I have done throughout the 6-month Udacity Machine Learning Nano Degree journy.
 ![](https://github.com/ahmedwael19/Udacity-Machine-Learning-Nano-Degree/blob/master/Certificate%20of%20Completion.JPG)
 
 ## Table of content
@@ -20,7 +22,7 @@ This repo is a portofolio for all the assignments and projects that I have done 
 - [Links](#links)
 
   
-  ## Capstone Project
+## Capstone Project
  For the capstone project, I worked on the Chest X-Ray images dataset available on [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). I reached a recall of 96.8% which beats all the scores on Kaggle, except for the top one with a recall of 98%.
 You can find all the information in the [Project Report](https://github.com/ahmedwael19/Udacity-Machine-Learning-Nano-Degree/blob/master/Capstone%20Project/MLND%20cap%20project.pdf) for the project.
  P.S. It is very interesting. 
