@@ -1,4 +1,10 @@
-# Udacity-Machine-Learning-Nano-Degree
+* Fruit
+  * Apple
+  * Orange
+  * Banana
+* Dairy
+  * Milk
+  * Cheese# Udacity-Machine-Learning-Nano-Degree
 
 This repo is a portofolio for all the assignments and projects that I have done throughout the 6-month Udacity Machine Learning Nano Degree.
 
@@ -86,3 +92,10 @@ This repo is a portofolio for all the assignments and projects that I have done 
 
 1. Actual numbers don't matter, just that it's a number
 ⋅⋅1. Ordered sub-list
+* Fruit
+  * Apple
+  * Orange
+  * Banana
+* Dairy
+  * Milk
+  * Cheese
