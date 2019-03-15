@@ -90,6 +90,6 @@ This repo is a portofolio for all the assignments and projects that I have done 
     ⋅⋅6. Train and test the dataset on a benchmark model.
     ⋅⋅7. Experimenting with different models and fine-tuning.
     
-1.  Problem Statement: The goal is to create a machine learning model that has X-Ray image as inputand returns the class of it as an output, by being either normal or having pneumonia infection. The tasks involved are the following:
+1. Problem Statement: The goal is to create a machine learning model that has X-Ray image as inputand returns the class of it as an output, by being either normal or having pneumonia infection. The tasks involved are the following:
    1. Download the dataset generically, by using a single command. The dataset is avaliable on [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
    2. Explore the dataset statistically and visually.
