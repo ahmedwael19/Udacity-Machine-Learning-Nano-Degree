@@ -5,7 +5,7 @@ This repo is a portofolio for all the assignments and projects that I have done 
 ## Table of content
 
 - [Projects](#installation)
-    - [Composer](#composer) 
+    - [Model Evaluation and Validation](#composer) 
     - [Composer](#composer)
 - [Capstone Project](#typo3-setup)
     - [Extension](#extension)
