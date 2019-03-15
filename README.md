@@ -99,11 +99,11 @@ This repo is a portofolio for all the assignments and projects that I have done 
 * Dairy
   * Milk
   * Cheese
-+ World Cup 2014
+1. World Cup 2014
   1. Germany
   2. Argentina
   3. Netherlands
-+ Rugby World Cup 2015
+2. Rugby World Cup 2015
   1. New Zealand
   2. Australia
   3. South Africa
