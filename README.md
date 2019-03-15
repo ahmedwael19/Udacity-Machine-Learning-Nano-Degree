@@ -4,9 +4,13 @@ This repo is a portofolio for all the assignments and projects that I have done 
 
 ## Table of content
 
-- [Projects](#installation)
-    - [1. Model Evaluation and Validation](#1-.-Model-Evaluation-and-Validation) 
-    - [Composer](#composer)
+- [Projects](#Projects)
+    - [Model Evaluation and Validation (Predicting Boston Housing Prices)](#Model-Evaluation-and-Validation-(Predicting-Boston-Housing-Prices-)) 
+    - [Model Evaluation and Validation](#Model-Evaluation-and-Validation) 
+    - [Model Evaluation and Validation](#Model-Evaluation-and-Validation) 
+    - [Model Evaluation and Validation](#Model-Evaluation-and-Validation) 
+    - [Model Evaluation and Validation](#Model-Evaluation-and-Validation) 
+
 - [Capstone Project](#typo3-setup)
     - [Extension](#extension)
     - [Database](#database)
@@ -19,5 +23,5 @@ This repo is a portofolio for all the assignments and projects that I have done 
 
 ## Projects:
 
-### 1. Model Evaluation and Validation
+### Model Evaluation and Validation (Predicting Boston Housing Prices)
   In this project, I worked on Boston Housing (dataset) [https://archive.ics.uci.edu/ml/machine-learning-databases/housing/] 
