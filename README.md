@@ -1,11 +1,3 @@
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese# Udacity-Machine-Learning-Nano-Degree
-
 This repo is a portofolio for all the assignments and projects that I have done throughout the 6-month Udacity Machine Learning Nano Degree.
 
 ## Table of content
@@ -78,8 +70,14 @@ This repo is a portofolio for all the assignments and projects that I have done 
   * Final Task : which calls all the functions in other .py files and start training given the designed reward function.
   
   ## Capstone Project
- you can find all the information in the [readme](# ) for the project.
+ For the capstone project, I worked on the Chest X-Ray images dataset avaliable on [Kaggle](#https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). I reached a recall of 96.8% which is beats all the scores on Kaggle, except the top one with a recall of 98%.
+You can find all the information in the [readme](#https://github.com/ahmedwael19/Udacity-Machine-Learning-Nano-Degree/blob/master/Capstone%20Project/ReadMe.md) for the project.
  
  ## Mini Projects
-
-
+ 
+* Grid Search
+* Decision Trees Titanic *(Supervised Learning)
+* Spam Classifier ( Supervised Learning - Naive Bayes - ) 
+* Gradient Descent ( Neural Networks )
+* IMDB data in Keras (Deep Neural Networks)
+* Student Admissions in Keras ( Deep Neural Networks )
