@@ -84,3 +84,5 @@ This repo is a portofolio for all the assignments and projects that I have done 
     ⋅⋅6. Train and test the dataset on a benchmark model.
     ⋅⋅7. Experimenting with different models and fine-tuning.
 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
