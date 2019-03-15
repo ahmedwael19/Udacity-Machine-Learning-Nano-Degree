@@ -10,15 +10,13 @@ This repo is a portofolio for all the assignments and projects that I have done 
   5. [Teach a Quadcopter How to Fly](#Teach-a-Quadcopter-How-to-Fly)
 
 - [Capstone Project](#Capstone-Project)
-    1.- [Definition](#Definition)
-    2. - [Analysis](#Analysis)
-    3. - [Methodology](#Methodology)
-    4. - [Results](#Results)
-    5. - [Conclusion](#Conclusion)
 - [Mini Projects](#Mini-Projects)
-    - [Upload the page tree file](#upload-the-page-tree-file)
-    - [Go to the import view](#go-to-the-import-view)
-    - [Import the uploaded page tree file](#import-the-uploaded-page-tree-file)
+    - [Method Validation](#Method-Validation)
+    - [Supervised Learning](#Supervised-Learning)
+    - [Deep Learning](#Deep-Learning)
+    - [Unsupervised Learning](#Unsupervised-Learning)
+    - [Reinforcement Learning](#Reinforcement-Learning)
+
 - [License](#license)
 - [Links](#links)
 
@@ -53,7 +51,7 @@ This repo is a portofolio for all the assignments and projects that I have done 
   6. Hyperparamter tuning and testing
   
 ### Creating Customer Segments
-  In this project, I worked on Wholesale customers [dataset](#https://archive.ics.uci.edu/ml/datasets/Wholesale+customers), which consists of 440 entries representing 8 different features for the annual spending in monetary units (m.u.) on diverse product categories. Different Clustring algorithms were used to clustera and segment the features.The flow of the project was as following :
+  In this project, I worked on Wholesale customers [dataset](https://archive.ics.uci.edu/ml/datasets/Wholesale+customers), which consists of 440 entries representing 8 different features for the annual spending in monetary units (m.u.) on diverse product categories. Different Clustring algorithms were used to clustera and segment the features.The flow of the project was as following :
   1. Data Exploration : Calculate Statistics and Observe the Feature Relevance by Visualizing Feature Distributions
   2. Data Preprocessing : Feature Scaling, Outlier Detection, Feature Transformation using PCA
   3. Creating Clusters: Cluster Visualization, and Data Recovery
@@ -70,14 +68,29 @@ This repo is a portofolio for all the assignments and projects that I have done 
   * Final Task : which calls all the functions in other .py files and start training given the designed reward function.
   
   ## Capstone Project
- For the capstone project, I worked on the Chest X-Ray images dataset avaliable on [Kaggle](#https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). I reached a recall of 96.8% which is beats all the scores on Kaggle, except the top one with a recall of 98%.
-You can find all the information in the [readme](#https://github.com/ahmedwael19/Udacity-Machine-Learning-Nano-Degree/blob/master/Capstone%20Project/ReadMe.md) for the project.
+ For the capstone project, I worked on the Chest X-Ray images dataset avaliable on [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). I reached a recall of 96.8% which is beats all the scores on Kaggle, except the top one with a recall of 98%.
+You can find all the information in the [readme](https://github.com/ahmedwael19/Udacity-Machine-Learning-Nano-Degree/blob/master/Capstone%20Project/ReadMe.md) for the project.
  
  ## Mini Projects
- 
-* Grid Search
-* Decision Trees Titanic *(Supervised Learning)
+  
+ ### Method Validation
+   * Grid Search
+
+ ### Supervised Learning
+ ### Deep Learning
+ ### Unsupervised Learning
+### Reinforcement Learning
+* Decision Trees Titanic ( Supervised Learning )
 * Spam Classifier ( Supervised Learning - Naive Bayes - ) 
 * Gradient Descent ( Neural Networks )
 * IMDB data in Keras (Deep Neural Networks)
 * Student Admissions in Keras ( Deep Neural Networks )
+* k-means Clustering of Movie Ratings ( Unsupervised Learning )
+* DBSCAN ( Unsupervised Learning )
+* GMM Clustering and Cluster Validation ( Unsupervised Learning )
+* Hierarchical Clustering ( Unsupervised Learning )
+* PCA Mini Project ( Unsupervised Learning )
+* Dynamic Programming
+Monto Carlo
+* Temporal Difference
+* Deep Q-Learning
