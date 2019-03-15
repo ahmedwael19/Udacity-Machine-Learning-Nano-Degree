@@ -12,11 +12,11 @@ This repo is a portofolio for all the assignments and projects that I have done 
   5. [Teach a Quadcopter How to Fly](#Teach-a-Quadcopter-How-to-Fly)
 
 - [Capstone Project](#Capstone-Project)
-    - [Definition](#Definition)
-    - [Analysis](#Analysis)
-    - [Methodology](#Methodology)
-    - [Results](#Results)
-    - [Conclusion](#Conclusion)
+    1.- [Definition](#Definition)
+    2. - [Analysis](#Analysis)
+    3. - [Methodology](#Methodology)
+    4. - [Results](#Results)
+    5. - [Conclusion](#Conclusion)
 - [Mini Projects](#Mini-Projects)
     - [Upload the page tree file](#upload-the-page-tree-file)
     - [Go to the import view](#go-to-the-import-view)
@@ -46,7 +46,7 @@ This repo is a portofolio for all the assignments and projects that I have done 
   8. Feature Importance and Selection
 
 ### Dog Breed Classifier
-In this project, I developed a CNN model that can classify if a given image is dog, human, or neither. Moreover, if it a dog, it can classify to which breed it belongs (out of 133 breeds), and if it's a human, it can classify it to the most resembling dog breed. The flow of the project was as following :
+  In this project, I developed a CNN model that can classify if a given image is dog, human, or neither. Moreover, if it a dog, it can classify to which breed it belongs (out of 133 breeds), and if it's a human, it can classify it to the most resembling dog breed. The flow of the project was as following :
   1. Import Datasets  : Import Dog Dataset, Import Human Dataset.
   2. Detect Humans :  Using openCV. 
   3. Detect Dogs : Pre-process the Data, and Making Predictions with ResNet-50
@@ -72,3 +72,15 @@ In this project, I developed a CNN model that can classify if a given image is d
   * Final Task : which calls all the functions in other .py files and start training given the designed reward function.
   
   ## Capstone Project
+  
+  ### Definition
+    1. Project Overview : Pneumonia is a widely known in lung infection that affect the air sacs. While not very acute if diagnosed in the early stages, it can be fatal if not. 
+    2. Problem Statement: The goal is to create a machine learning model that has X-Ray image as inputand returns the class of it as an output, by being either normal or having pneumonia infection. The tasks involved are the following: 
+      1. Download the dataset generically, by using a single command. The dataset is avaliable on [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+      2. Explore the dataset statistically and visually.
+      3. Preprocess the dataset to remove any outliers (if any), resize all images, and link each image to its label
+      4. Perform basic data augmentation to have more training examples (double the size).
+      5. Use k-fold validation technique to decrease overfitting. 
+      6. Train and test the dataset on a benchmark model.
+      7. Experimenting with different models and fine-tuning.
+
