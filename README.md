@@ -43,7 +43,27 @@ This repo is a portofolio for all the assignments and projects that I have done 
   8. Feature Importance and Selection
 
 ### Dog Breed Classifier
-
+In this project, I developed a CNN model that can classify if a given image is dog, human, or neither. Moreover, if it a dog, it can classify to which breed it belongs (out of 133 breeds), and if it's a human, it can classify it to the most resembling dog breed. The flow of the project was as following :
+  1. Import Datasets  : Import Dog Dataset, Import Human Dataset.
+  2. Detect Humans :  Using openCV. 
+  3. Detect Dogs : Pre-process the Data, and Making Predictions with ResNet-50
+  4. Create a CNN to Classify Dog Breeds (from Scratch): Pre-process the Data, define Model Architecture, compile it, train it, and test it.
+  5.Use a CNN to Classify Dog Breeds (Transfer Learning) : Obtain Bottleneck Features, and do the same steps as 4
+  6. Hyperparamter tuning and testing
+  
 ### Creating Customer Segments
-
+  In this project, I worked on Wholesale customers [dataset](https://archive.ics.uci.edu/ml/datasets/Wholesale+customers), which consists of 440 entries representing 8 different features for the annual spending in monetary units (m.u.) on diverse product categories. Different Clustring algorithms were used to clustera and segment the features.The flow of the project was as following :
+  1. Data Exploration : Calculate Statistics and Observe the Feature Relevance by Visualizing Feature Distributions
+  2. Data Preprocessing : Feature Scaling, Outlier Detection, Feature Transformation using PCA
+  3. Creating Clusters: Cluster Visualization, and Data Recovery
+  4. Visualizing Underlying Distributions
+  
 ### Teach a Quadcopter How to Fly
+  In This project, I used Deep Reinforcement Learning to teach a quadcopter how to fly and reach a specified target. Neural Networks were used in designing the action and the states. The project consists of the following main functions:
+  * Agent
+  * Actor
+  * Critic
+  * Noise
+  * Policy Search
+  * Replay Buffer
+  * Final Task : which calls all the functions in other .py files and start training given the designed reward function.
