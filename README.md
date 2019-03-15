@@ -1,4 +1,5 @@
 This repo is a portofolio for all the assignments and projects that I have done throughout the 6-month Udacity Machine Learning Nano Degree.
+![](https://github.com/ahmedwael19/Udacity-Machine-Learning-Nano-Degree/blob/master/Certificate%20of%20Completion.JPG)
 
 ## Table of content
 - [Capstone Project](#Capstone-Project)
