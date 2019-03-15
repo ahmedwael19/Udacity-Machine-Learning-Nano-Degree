@@ -81,17 +81,15 @@ This repo is a portofolio for all the assignments and projects that I have done 
   
   ### Definition
   1. Project Overview : Pneumonia is a widely known in lung infection that affect the air sacs. While not very acute if diagnosed in the early stages, it can be fatal if not. 
-  2. Problem Statement: The goal is to create a machine learning model that has X-Ray image as inputand returns the class of it as an output, by being either normal or having pneumonia infection. The tasks involved are the following: 
-  ⋅⋅1. Download the dataset generically, by using a single command. The dataset is avaliable on [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
-    ⋅⋅2. Explore the dataset statistically and visually.
+  2. 
+  ⋅⋅1. 
+    ⋅⋅2. 
     ⋅⋅3. Preprocess the dataset to remove any outliers (if any), resize all images, and link each image to its label
     ⋅⋅4. Perform basic data augmentation to have more training examples (double the size).
     ⋅⋅5. Use k-fold validation technique to decrease overfitting. 
     ⋅⋅6. Train and test the dataset on a benchmark model.
     ⋅⋅7. Experimenting with different models and fine-tuning.
     
-1. For this
-   1. do this
-      1. then this
-      2. then this
-   2. do this too
+1.  Problem Statement: The goal is to create a machine learning model that has X-Ray image as inputand returns the class of it as an output, by being either normal or having pneumonia infection. The tasks involved are the following:
+   1. Download the dataset generically, by using a single command. The dataset is avaliable on [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+   2. Explore the dataset statistically and visually.
