@@ -89,8 +89,9 @@ This repo is a portofolio for all the assignments and projects that I have done 
     ⋅⋅5. Use k-fold validation technique to decrease overfitting. 
     ⋅⋅6. Train and test the dataset on a benchmark model.
     ⋅⋅7. Experimenting with different models and fine-tuning.
-
-1. Something
-  1. Something
-  2. Something
-2. Something
+    
+1. For this
+   1. do this
+      1. then this
+      2. then this
+   2. do this too
