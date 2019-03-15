@@ -25,10 +25,10 @@ This repo is a portofolio for all the assignments and projects that I have done 
 
 ### Predicting Boston Housing Prices
   In this project, I worked on Boston Housing [dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/housing/), which consists of 506 entries representing 14 different features for houses in Boston. The flow of the project was as following :
-  1. 
-  2. 
-  3. 
-  4. 
+  1. sad
+  2. fa
+  3. ada
+  4. c
   
   
 ### Finding Donors for Charity
