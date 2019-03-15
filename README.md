@@ -5,11 +5,11 @@ This repo is a portofolio for all the assignments and projects that I have done 
 ## Table of content
 
 - [Projects](#Projects)
-    - [Model Evaluation and Validation (Predicting Boston Housing Prices)](#Model-Evaluation-and-Validation-(Predicting-Boston-Housing-Prices)) 
-    - [Model Evaluation and Validation](#Model-Evaluation-and-Validation) 
-    - [Model Evaluation and Validation](#Model-Evaluation-and-Validation) 
-    - [Model Evaluation and Validation](#Model-Evaluation-and-Validation) 
-    - [Model Evaluation and Validation](#Model-Evaluation-and-Validation) 
+  1. [Predicting Boston Housing Prices](Predicting-Boston-Housing-Prices)
+  1. [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827)
+  1. [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827)
+  1. [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827)
+  1. [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827)
 
 - [Capstone Project](#typo3-setup)
     - [Extension](#extension)
@@ -23,5 +23,5 @@ This repo is a portofolio for all the assignments and projects that I have done 
 
 ## Projects:
 
-### Model Evaluation and Validation (Predicting Boston Housing Prices)
+### 1. Predicting Boston Housing Prices
   In this project, I worked on Boston Housing (dataset) [https://archive.ics.uci.edu/ml/machine-learning-databases/housing/] 
