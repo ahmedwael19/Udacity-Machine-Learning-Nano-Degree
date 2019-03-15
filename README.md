@@ -5,7 +5,7 @@ This repo is a portofolio for all the assignments and projects that I have done 
 ## Table of content
 
 - [Projects](#installation)
-    - [Model Evaluation and ValidationPredicting Boston Housing Prices](# Model Evaluation and Validation )
+    - [Composer](#composer) 
     - [Composer](#composer)
 - [Capstone Project](#typo3-setup)
     - [Extension](#extension)
