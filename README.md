@@ -11,7 +11,7 @@ This repo is a portofolio for all the assignments and projects that I have done 
   4. [Creating Customer Segments](#Creating-Customer-Segments)
   5. [Teach a Quadcopter How to Fly](#Teach-a-Quadcopter-How-to-Fly)
 
-- [Capstone Project](#typo3-setup)
+- [Capstone Project](#Capstone-Project)
     - [Extension](#extension)
     - [Database](#database)
 - [Page setup](#page-setup)
@@ -67,3 +67,5 @@ In this project, I developed a CNN model that can classify if a given image is d
   * Policy Search
   * Replay Buffer
   * Final Task : which calls all the functions in other .py files and start training given the designed reward function.
+  
+  ## Capstone Project
