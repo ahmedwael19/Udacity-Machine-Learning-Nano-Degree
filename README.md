@@ -77,20 +77,20 @@ You can find all the information in the [readme](https://github.com/ahmedwael19/
    * Grid Search
 
  ### Supervised Learning
+ * Decision Trees Titanic
+ * Spam Classifier
  ### Deep Learning
+ * Gradient Descent
+ * IMDB data in Keras 
+ * Student Admissions in Keras 
  ### Unsupervised Learning
+ * k-means Clustering of Movie Ratings 
+ * DBSCAN
+ * GMM Clustering and Cluster Validation 
+ * Hierarchical Clustering 
+ * PCA Mini Project 
 ### Reinforcement Learning
-* Decision Trees Titanic ( Supervised Learning )
-* Spam Classifier ( Supervised Learning - Naive Bayes - ) 
-* Gradient Descent ( Neural Networks )
-* IMDB data in Keras (Deep Neural Networks)
-* Student Admissions in Keras ( Deep Neural Networks )
-* k-means Clustering of Movie Ratings ( Unsupervised Learning )
-* DBSCAN ( Unsupervised Learning )
-* GMM Clustering and Cluster Validation ( Unsupervised Learning )
-* Hierarchical Clustering ( Unsupervised Learning )
-* PCA Mini Project ( Unsupervised Learning )
 * Dynamic Programming
-Monto Carlo
+* Monto Carlo
 * Temporal Difference
 * Deep Q-Learning
