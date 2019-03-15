@@ -61,7 +61,7 @@ This repo is a portofolio for all the assignments and projects that I have done 
   6. Hyperparamter tuning and testing
   
 ### Creating Customer Segments
-  In this project, I worked on Wholesale customers [dataset](https://archive.ics.uci.edu/ml/datasets/Wholesale+customers), which consists of 440 entries representing 8 different features for the annual spending in monetary units (m.u.) on diverse product categories. Different Clustring algorithms were used to clustera and segment the features.The flow of the project was as following :
+  In this project, I worked on Wholesale customers [dataset](#https://archive.ics.uci.edu/ml/datasets/Wholesale+customers), which consists of 440 entries representing 8 different features for the annual spending in monetary units (m.u.) on diverse product categories. Different Clustring algorithms were used to clustera and segment the features.The flow of the project was as following :
   1. Data Exploration : Calculate Statistics and Observe the Feature Relevance by Visualizing Feature Distributions
   2. Data Preprocessing : Feature Scaling, Outlier Detection, Feature Transformation using PCA
   3. Creating Clusters: Cluster Visualization, and Data Recovery
@@ -78,16 +78,8 @@ This repo is a portofolio for all the assignments and projects that I have done 
   * Final Task : which calls all the functions in other .py files and start training given the designed reward function.
   
   ## Capstone Project
-  
-  ### Definition
-1. Project Overview : Pneumonia is a widely known in lung infection that affect the air sacs. While not very acute if diagnosed in the early stages, it can be fatal if not.     
+ you can find all the information in the [readme](# ) for the project.
+ 
+ ## Mini Projects
 
-2. Problem Statement: The goal is to create a machine learning model that has X-Ray image as inputand returns the class of it as an output, by being either normal or having pneumonia infection. The tasks involved are the following:
 
-   1. Download the dataset generically, by using a single command. The dataset is avaliable on [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
-   2. Explore the dataset statistically and visually.
-   3. Preprocess the dataset to remove any outliers (if any), resize all images, and link each image to its label
-   4. Perform basic data augmentation to have more training examples (double the size).
-   5. Use k-fold validation technique to decrease overfitting. 
-   6. Train and test the dataset on a benchmark model.
-   7. Experimenting with different models and fine-tuning.
