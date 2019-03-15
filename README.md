@@ -5,7 +5,7 @@ This repo is a portofolio for all the assignments and projects that I have done 
 ## Table of content
 
 - [Projects](#Projects)
-  1. [Predicting Boston Housing Prices](Predicting-Boston-Housing-Prices)
+  1. [Predicting Boston Housing Prices](#Predicting-Boston-Housing-Prices)
   1. [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827)
   1. [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827)
   1. [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827)
